@@ -95,6 +95,8 @@ Adjust the shift value to modify the rotation.
 Extend the program to support lowercase, numbers, or symbols.
 
 🧑‍💻 Author
-Mansi Prakash
+1) Mansi Prakash
+2) Nanditha B S
+
 📅 Created on: November 2025
 💬 Feel free to fork, improve, and contribute!
